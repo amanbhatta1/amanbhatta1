@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Bhatta (@amanbhatta1)
 
-<!--
-**amanbhatta1/amanbhatta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛰️ About Me
+I am a developer interested in **Remote Sensing**, **GIS**, and **Satellite Data Analysis**. Currently working on automating satellite imagery workflows.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **Domain:** Planet API, Geospatial Analysis, Jupyter Notebooks
+- **Tools:** GitHub, GDAL, QGIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+- [Planet Download Tool](https://github.com) - Automating PlanetScope AOI-based Mosaic Ordering.
+
+### 📫 How to reach me
+- You can find me on [LinkedIn](https://www.linkedin.com/in/aman-bhatta-743b10136/)
