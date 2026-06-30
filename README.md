@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aman Bhatta (@amanbhatta1)
-
+<meta name="google-site-verification" content="googled9745359435a9051.html" />
 ### 🛰️ About Me
 I am a developer interested in **Remote Sensing**, **GIS**, and **Satellite Data Analysis**. Currently working on automating satellite imagery workflows.
 
